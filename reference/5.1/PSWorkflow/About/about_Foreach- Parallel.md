@@ -6,7 +6,7 @@ online version: https://docs.microsoft.com/powershell/module/psworkflow/about/ab
 schema: 2.0.0
 title: about_Foreach Parallel
 ---
-# About Foreach-Parallel
+# About Foreach -Parallel
 
 ## SHORT DESCRIPTION
 Describes the `ForEach -Parallel` language construct in Windows PowerShell
